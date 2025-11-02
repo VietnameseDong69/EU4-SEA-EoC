@@ -1145,9 +1145,8 @@ siamese_missions_eoc_1 = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
 		OR = {
-			tag = DAI
-			tag = TOK
-			tag = ANN
+			tag = AYU
+			tag = SIA
 		}
 	}
 	has_country_shield = yes 
@@ -1315,9 +1314,8 @@ siamese_missions_eoc_2 = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
 		OR = {
-			tag = DAI
-			tag = TOK
-			tag = ANN
+			tag = AYU
+			tag = SIA
 		}
 		capital_scope = { continent = asia }
 	}
@@ -1700,9 +1698,8 @@ siamese_missions_eoc_3 = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
 		OR = {
-			tag = DAI
-			tag = TOK
-			tag = ANN
+			tag = AYU
+			tag = SIA
 		}
 	}
 	has_country_shield = yes 
@@ -2005,9 +2002,8 @@ siamese_missions_eoc_4 = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
 		OR = {
-			tag = DAI
-			tag = TOK
-			tag = ANN
+			tag = AYU
+			tag = SIA
 		}
 	}
 	has_country_shield = yes 	
@@ -2312,9 +2308,8 @@ siamese_missions_eoc_5 = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
 		OR = {
-			tag = DAI
-			tag = TOK
-			tag = ANN
+			tag = AYU
+			tag = SIA
 		}
 		capital_scope = { continent = asia }
 	}
